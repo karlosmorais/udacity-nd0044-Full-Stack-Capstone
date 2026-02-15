@@ -1,5 +1,5 @@
 #!/bin/bash
-export DATABASE_URL="postgresql://postgres@localhost:5432/casting_agency"
+export DATABASE_URL="postgresql://casting_agency_db_eyhp_user:5lMDfw4WySQd4wDghTYo990yzefGpPho@dpg-d6938ter433s73crqmig-a.oregon-postgres.render.com/casting_agency_db_eyhp"
 export EXCITED="true"
 
 # Auth0 Configuration
