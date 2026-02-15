@@ -4,7 +4,7 @@
 The Casting Agency models a company that is responsible for creating movies and managing and assigning actors to those movies. You are an Executive Producer within the company and are creating a system to simplify and streamline your process.
 
 ## API URL
-The API is hosted at: `[ADD YOUR DEPLOYED RENDER/HEROKU/AWS URL HERE]` (e.g., `https://casting-agency-xx.onrender.com`)
+The API is hosted at: `https://casting-agency-api-m0zb.onrender.com/`
 - Local Base URL: `http://localhost:8080/`
 
 ## Authentication for Reviewers
